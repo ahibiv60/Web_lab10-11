@@ -1,0 +1,9 @@
+{
+  "name": "web_lab10",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "latest",
+    "body-parser": "latest",
+    "mongodb": "latest"
+  }
+}
